@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Global HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Global.jpg" group-title="رياضة عربية",beIN Global HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/442220.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport News HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="رياضة عربية",beIN Sport News HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/443146.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="رياضة عربية",beIN Sport 1 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/325793.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="رياضة عربية",beIN Sport 2 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/325794.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 3 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="رياضة عربية",beIN Sport 3 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/325795.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 4 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="رياضة عربية",beIN Sport 4 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/325796.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 5 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="رياضة عربية",beIN Sport 5 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/325797.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 6 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="رياضة عربية",beIN Sport 6 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/325798.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 7 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="رياضة عربية",beIN Sport 7 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/325799.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 8 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="رياضة عربية",beIN Sport 8 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/325800.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 9 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="رياضة عربية",beIN Sport 9 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/325801.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 1 HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="رياضة عربية",beIN Sport Xtra 1 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/325802.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 2 HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="رياضة عربية",beIN Sport Xtra 2 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/319435.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 3 HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="رياضة عربية",beIN Sport Xtra 3 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/319436.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alkass 1 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="رياضة عربية",Alkass 1 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/96214.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alkass 2 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="رياضة عربية",Alkass 2 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/96215.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alkass 3 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="رياضة عربية",Alkass 3 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/278068.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORTS 1 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="رياضة عربية",AD SPORTS 1 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/326053.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORTS 2 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="رياضة عربية",AD SPORTS 2 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/326054.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Iraqia Sport" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="رياضة عربية",Iraqia Sport
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/107038.m3u8
