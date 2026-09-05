@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport News HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="beIN Sport HD",beIN Sport News HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/443146.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport HD",beIN Sport 1 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/325793.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport SD",beIN Sport 1 sd
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/325803.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alkass 1 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 1 HD
+http://mytpl.xyz:8080/live/30078854966848/19721880432348/96214.m3u8
