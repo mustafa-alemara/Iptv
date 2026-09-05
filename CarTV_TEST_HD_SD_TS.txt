@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="TEST HD-SD",beIN Sport 1 HD
+http://mytpl.xyz:8080/live/106737915865/138947161713/325793.ts
+#EXTINF:-1 group-title="TEST HD-SD",beIN Sport 2 HD
+http://mytpl.xyz:8080/live/106737915865/138947161713/325794.ts
+#EXTINF:-1 group-title="TEST HD-SD",beIN Sport 3 HD
+http://mytpl.xyz:8080/live/106737915865/138947161713/325795.ts
+#EXTINF:-1 group-title="TEST HD-SD",beIN Sport 4 HD
+http://mytpl.xyz:8080/live/106737915865/138947161713/325796.ts
+#EXTINF:-1 group-title="TEST HD-SD",beIN Sport 5 HD
+http://mytpl.xyz:8080/live/106737915865/138947161713/325797.ts
+#EXTINF:-1 group-title="TEST HD-SD",beIN Sport 1 SD
+http://mytpl.xyz:8080/live/106737915865/138947161713/325803.ts
+#EXTINF:-1 group-title="TEST HD-SD",beIN Sport 2 SD
+http://mytpl.xyz:8080/live/106737915865/138947161713/325804.ts
+#EXTINF:-1 group-title="TEST HD-SD",beIN Sport 3 SD
+http://mytpl.xyz:8080/live/106737915865/138947161713/325805.ts
+#EXTINF:-1 group-title="TEST HD-SD",beIN Sport 4 SD
+http://mytpl.xyz:8080/live/106737915865/138947161713/325806.ts
+#EXTINF:-1 group-title="TEST HD-SD",beIN Sport 5 SD
+http://mytpl.xyz:8080/live/106737915865/138947161713/325807.ts
