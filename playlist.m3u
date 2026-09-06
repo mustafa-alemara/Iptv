@@ -1,0 +1,6 @@
+#EXTM3U
+# Xtream Codes subscription
+# Server: http://toytcl.xyz:8080
+# Username: k50lHoxwiAg2
+# Password: vUJ4RbOVjZQ7
+http://toytcl.xyz:8080/get.php?username=k50lHoxwiAg2&password=vUJ4RbOVjZQ7&type=m3u_plus&output=ts
